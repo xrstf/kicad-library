@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP-WROOM-02U_4MB
+D WiFi Modules (802.11) SMD Module, ESP8266EX, 32Mbits SPI flash, UART Mode, U.FL antenna connector
+$ENDCMP
+#
+#End Doc Library
