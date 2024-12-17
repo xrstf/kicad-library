@@ -4,4 +4,10 @@ $CMP ESP-WROOM-02U_4MB
 D WiFi Modules (802.11) SMD Module, ESP8266EX, 32Mbits SPI flash, UART Mode, U.FL antenna connector
 $ENDCMP
 #
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
 #End Doc Library
