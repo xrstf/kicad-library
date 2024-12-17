@@ -198,16 +198,6 @@
 		(uuid "0107d9d9-3be2-4a6c-b69f-a4b346bebcf6")
 	)
 	(fp_line
-		(start 6.5 1)
-		(end 6.5 -39)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Cmts.User")
-		(uuid "86d3f1fa-9098-4df7-8e31-1d2e7b62dff7")
-	)
-	(fp_line
 		(start -1.75 -31.35)
 		(end 1.15 -36.1)
 		(stroke
